@@ -12,18 +12,18 @@
 
 # GOAL JAVAScript Algorithms and Data Structures Certification (300Hr)
 
-Sl |  Subject        				        |  No. of Sub    				
----  --------------------------------------------------   ------------    
-1. | Basic Javascript     				| 110
-2. | ES6                   				| 31
-3. | Regular Expressions    				| 33
-4. | Debugging              				| 12
-5. | Basic Data Structures  				| 20
-6. | Object Oriented Programming			| 26
-7. | Functional Programming				| 26
-8. | Intermediate Algorithm Scripting			| 21
-9. | JavaScript Algorithms and Data Structures Projects | 5
-   | TOTAL SUMMARY    300 Hr                            | 284     
+Sl No.| Subject                                        | No. of Sub
+------| ---------------------------------------------- | -------------
+1.| Basic Javascript                                   | 110
+2.| ES6                                                | 31
+3.| Regular Expressions                                | 33
+4.| Debugging         	                               | 12
+5.| Basic Data Structures                              | 20
+6.| Object Oriented Programming                        | 26
+7.| Functional Programming                             | 26
+8.| Intermediate Algorithm Scripting                   | 21
+9.| JavaScript Algorithms and Data Structures Projects | 5
+0.| TOTAL SUMMARY    300 Hr | 284     
 
 
 ## To Complete fcc Basic Js
