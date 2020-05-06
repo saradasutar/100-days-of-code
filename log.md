@@ -1,6 +1,6 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - Log (Joined on 05th May,2020)
 
-### Day 0: February 30, 2016 (Example 1)
+### Day 0: May 06, 2020 (Example 1)
 ##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
