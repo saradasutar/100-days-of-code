@@ -14,9 +14,8 @@
 
 
 # To Complete fcc Basic Js
-Introduction to JavaScript
-Passed
-Comment Your JavaScript Code
+1. Introduction to JavaScript
+2. Comment Your JavaScript Code
 Passed
 Declare JavaScript Variables
 Passed
