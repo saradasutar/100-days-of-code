@@ -16,17 +16,17 @@
 # To Complete fcc Basic Js
 1. Introduction to JavaScript
 2. Comment Your JavaScript Code
-Declare JavaScript Variables
-Storing Values with the Assignment Operator
-Initializing Variables with the Assignment Operator
-Understanding Uninitialized Variables
-Understanding Case Sensitivity in Variables
-Add Two Numbers with JavaScript
-Subtract One Number from Another with JavaScript
-Multiply Two Numbers with JavaScript
-Divide One Number by Another with JavaScript
-Increment a Number with JavaScript
-Decrement a Number with JavaScript
+3.Declare JavaScript Variables
+4.Storing Values with the Assignment Operator
+5.Initializing Variables with the Assignment Operator
+6.Understanding Uninitialized Variables
+7.Understanding Case Sensitivity in Variables
+8.Add Two Numbers with JavaScript
+9.Subtract One Number from Another with JavaScript
+10.Multiply Two Numbers with JavaScript
+11.Divide One Number by Another with JavaScript
+12.Increment a Number with JavaScript
+13.Decrement a Number with JavaScript
 Create Decimal Numbers with JavaScript
 Multiply Two Decimals with JavaScript
 Divide One Decimal by Another with JavaScript
